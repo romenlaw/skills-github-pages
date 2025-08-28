@@ -7,12 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+# Romen's eScape
 
 </header>
-
+This is a companion website to https://romenlaw.blogspot.com/ 
 <!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
